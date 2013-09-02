@@ -1,0 +1,18 @@
+html, body, #map-canvas {
+    width:650px;
+    height: 500px;
+    margin:0px;
+}
+
+#canvas_overlay {
+    display:none;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+
+#canvas-container {
+    position:absolute;
+    left:0px;
+    top:0px;
+}
